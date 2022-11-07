@@ -9,10 +9,6 @@ function App() {
         path="/"
         element={<Index />}
       />
-      <Route
-        path="*"
-        element={<Index />}
-      />
     </Routes>
   );
 }
