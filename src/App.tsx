@@ -6,7 +6,13 @@ function App() {
   return (
     <Routes>
       <Route
-        path="/*"
+        path="/"
+        element={<Index />}
+      />
+    </Routes>
+    <Routes>
+      <Route
+        path="*"
         element={<Index />}
       />
     </Routes>
