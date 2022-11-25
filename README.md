@@ -18,7 +18,7 @@ Facebook Clone w React Js and Typescript</h1>
 
 <h3 id="description">✍️ Description:</h3>
 
-<p>This is Facebook Ui Clone using React Js giving me the possibility to have reusable components, which, using combined with Styled-Components, has a special mix</p>
+<p>This is Facebook Ui Clone using React Js giving me the possibility to have reusable components, which, using combined with Styled-Components, has a special mix.</p>
 
 <br />
 
